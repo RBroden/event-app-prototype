@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+    max-width: 1000px;
+    background: #998D84;
+    color: #333;
+}
+
+/* Navigation link styles */
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-top: 10px;
+  display: inline-block;
+  color: #fff;
+  background-color: #c13f2c;
+  border-radius: 4px;
+}
+nav a:hover {
+  color: #c13f2c;
+  background-color: #fff;
+}
